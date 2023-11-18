@@ -10,7 +10,7 @@ const Home: React.FC = () => {
           <Col lg={6}>
             <div className="banner-content">
               <h1 className="mb-30 text-uppercase" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400" data-aos-easing="ease-out-cubic">Rodrigo Vale</h1>
-              <p className="lead mb-30" data-aos="fade-up" data-aos-duration="400" data-aos-delay="600" data-aos-easing="ease-out-cubic">Engenheiro Civil, Gestor de Projetos, Metodologias Ágeis (Scrum Master) e Desenvolvedor Júnior.</p>
+              <p className="lead mb-30" data-aos="fade-up" data-aos-duration="400" data-aos-delay="600" data-aos-easing="ease-out-cubic">Engenheiro Civil, Gestor de Projetos, Metodologias Ágeis (Scrum Master) e Desenvolvedor Júnior!!</p>
               <div className="socials-icons socials-grey" data-aos="fade-up" data-aos-duration="400" data-aos-delay="800" data-aos-easing="ease-out-cubic">
                 <NextLink href={"https://www.instagram.com/rodriigovale"} >
                   <a rel="noopener noreferrer" target="_blank">
